@@ -1,0 +1,5 @@
+e:\users\kristoffer\documents\visual studio 2010\Projects\FaceRate\FaceRate\bin\FaceRate.dll
+e:\users\kristoffer\documents\visual studio 2010\Projects\FaceRate\FaceRate\bin\FaceRate.pdb
+e:\users\kristoffer\documents\visual studio 2010\Projects\FaceRate\FaceRate\obj\Debug\ResolveAssemblyReference.cache
+e:\users\kristoffer\documents\visual studio 2010\Projects\FaceRate\FaceRate\obj\Debug\FaceRate.dll
+e:\users\kristoffer\documents\visual studio 2010\Projects\FaceRate\FaceRate\obj\Debug\FaceRate.pdb
